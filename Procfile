@@ -1,1 +1,1 @@
-web voila --port=$PORT --no-browser growstand.ipynb
+web: voila --port=$PORT --no-browser growstand.ipynb
